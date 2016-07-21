@@ -1,0 +1,22 @@
+.margin{
+	margin: -15px 10px;
+}
+.display{
+	display: inline-block;
+}
+.cobertor{
+	margin: 0 100px 0 100px;
+}
+p{
+	position: relative;
+	text-align: right;
+	top: -25px;
+	color: white;
+	right: 15px;
+	bottom: -50px;
+}
+h1{
+	position: relative;
+	text-align: left;
+	left: 100px;
+}
